@@ -1,3 +1,6 @@
 # hello-world
 # Just my first repository
-print("Hello World")
+
+Hello Humans!
+
+I have started learn Python and i need to practice my coding skills.
